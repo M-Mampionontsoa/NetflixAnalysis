@@ -28,6 +28,7 @@ This project provides an in-depth analysis of Netflix's streaming catalog, exami
 
 ## Project Structure
 
+```bash
 netflix-analysis/
 │
 ├── data/
@@ -44,6 +45,7 @@ netflix-analysis/
 │
 ├── requirements.txt # Project dependencies
 ├── README.md # Project documentation
+```
 
 ## Dataset
 
